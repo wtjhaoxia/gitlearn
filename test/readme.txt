@@ -13,3 +13,4 @@ testthis  diff head
 测试中文
 测试 checkout 1234
 测试checkout again
+ add测试一下
