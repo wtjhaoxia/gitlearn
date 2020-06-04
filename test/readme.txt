@@ -9,3 +9,5 @@ test diff
 test diff --cached
 
 testthis  diff head
+
+²âÊÔÖĞÎÄ
