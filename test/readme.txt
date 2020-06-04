@@ -11,4 +11,5 @@ test diff --cached
 testthis  diff head
 
 ²âÊÔÖĞÎÄ
-²âÊÔ checkout 12345
+²âÊÔ checkout 1234
+²âÊÔcheckout again
