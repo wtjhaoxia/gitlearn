@@ -6,3 +6,4 @@ change third time.
 aaaaa
 
 test diff
+test diff --cached
